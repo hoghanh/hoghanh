@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there, I'm Hong Hanh 👋
+
+### A software engineering student with a passion for learning and never stop trying. 
+
+[![Welcome to Hong Hanh profile]()]
+(https://www.facebook.com/hanhhannah01)
 
 <!--
 **hoghanh/hoghanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
