@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hoghanh/hoghanh/static/css/main.83b5dced.chunk.css",
+    "main.js": "/hoghanh/hoghanh/static/js/main.c0c0737e.chunk.js",
+    "main.js.map": "/hoghanh/hoghanh/static/js/main.c0c0737e.chunk.js.map",
+    "runtime-main.js": "/hoghanh/hoghanh/static/js/runtime-main.d1e96d3c.js",
+    "runtime-main.js.map": "/hoghanh/hoghanh/static/js/runtime-main.d1e96d3c.js.map",
+    "static/js/2.920d94b3.chunk.js": "/hoghanh/hoghanh/static/js/2.920d94b3.chunk.js",
+    "static/js/2.920d94b3.chunk.js.map": "/hoghanh/hoghanh/static/js/2.920d94b3.chunk.js.map",
+    "index.html": "/hoghanh/hoghanh/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/hoghanh/hoghanh/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.920d94b3.chunk.js.LICENSE.txt": "/hoghanh/hoghanh/static/js/2.920d94b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1e96d3c.js",
+    "static/js/2.920d94b3.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.c0c0737e.chunk.js"
+  ]
+}
