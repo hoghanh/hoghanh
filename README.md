@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Reactjs**
 - 📫 How to reach me: **caohanh1711@gmail.com**
 - ⚡ Fun fact: **I love taking photo**
+- [✨ Vist my portfolio ✨](https://hoghanh.github.io/hannah-portfolio/)
 
 
 <!--
